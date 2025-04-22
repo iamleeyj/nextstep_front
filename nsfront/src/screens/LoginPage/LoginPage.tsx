@@ -1,6 +1,6 @@
 import React from "react";
-import { Button } from "../../components/ui/button";
-import { Card, CardContent } from "../../components/ui/card";
+import { Button } from "../../components/ui/button-1";
+import { Card, CardContent } from "../../components/ui/card-1";
 import { Input } from "../../components/ui/input";
 
 export const LoginPage = (): JSX.Element => {
